@@ -6,7 +6,7 @@
 截图
 ===
 
-<img src="http://imgs.cc/image/PEwj92b" alt="刮刮卡效果截图" width="320">
+<img src="http://s1.imgs.cc/img/PEwj92b.jpg" alt="刮刮卡效果截图" width="320">
 
 如何使用
 =======
