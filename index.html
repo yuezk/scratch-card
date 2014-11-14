@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+  <title>刮刮卡</title>
+  <style>
+    * { padding: 0; margin: 0; }
+    canvas { display: block; margin: 10px auto; }
+  </style>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+
+  <!-- 可选，用来支持Retina屏幕 -->
+  <!-- <script src="path/to/hidpi-canvas.min.js"></script> -->
+  
+  <script src="scratch-card.js"></script>
+  <script>
+    var card = new ScratchCard('canvas');
+  </script>
+</body>
+</html>
